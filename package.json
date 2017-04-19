@@ -1,0 +1,25 @@
+{
+  "name": "zad_76",
+  "version": "1.0.0",
+  "description": "\"# zad_76\"",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nescomtm/zad_76.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nescomtm/zad_76/issues"
+  },
+  "homepage": "https://github.com/nescomtm/zad_76#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
